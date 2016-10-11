@@ -11,6 +11,7 @@
     <input type="submit" value="検索">
   </form>
 
+
 <?php
   
   $dsn = 'mysql:dbname=phpkiso;host=localhost';
